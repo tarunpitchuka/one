@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Sale in 2026</h1>
+            <h1>Summer Collection  in 2026</h1>
             <p>Discover the trendy in fashion, technology and accessories with up to 60% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -838,7 +838,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>Shop by Category</h2>
+            <h2>Shop by based on the Category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
