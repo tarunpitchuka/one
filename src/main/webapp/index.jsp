@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Happy New Year 2026</h1>
+            <h1>Black friday sale is live now</h1>
             <p>Discover the trendy in fashion, technology and accessories with up to 60% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
